@@ -46,7 +46,7 @@
     width: 50%;
 }
 #menu2 a{
-    background-color: #E3BC62;
+    background-color: green;
     color: white;
     padding: 5px 10px;
     margin: 1px;
@@ -56,13 +56,16 @@
     width: 10%; 
 }
 #menu2 a:hover{
-    border: 10px solid #E3BC62;
+    border-radius: 20px 5px;
+    background-color: greenyellow
 }
 #foto1{
     margin: 5px;
     float: right;
+    width="20%" height="20%"
 }
 #foto2{
     margin: 5px;
     float: right;
+    width="20%" height="20%"
 }
